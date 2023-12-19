@@ -8,3 +8,4 @@ asyncpg
 gunicorn
 psycopg2
 python-multipart
+python-dotenv
