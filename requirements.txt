@@ -6,7 +6,6 @@ bcrypt
 python-jose
 asyncpg
 gunicorn
-psycopg2
 python-multipart
 python-dotenv
 psycopg2-binary
