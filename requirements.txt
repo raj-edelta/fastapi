@@ -6,3 +6,4 @@ bcrypt
 python-jose
 asyncpg
 gunicorn
+psycopg2
